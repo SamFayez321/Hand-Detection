@@ -79,4 +79,4 @@ class handDetect:
 
 
 if __name__ == "__main__":
-    main()
+    handDetect.main()
