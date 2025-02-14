@@ -6,4 +6,4 @@ Separate module with additional functionality.
 ## GameHandTrack
 Basic HandTrackingModule invoke.
 ## LinkedInGestureTrack
-Advanced hand tracking that looks for an "L" hand gesture and opens Linkedin with Chrome if it is not already open. Also uses HandTrackingModule
+Advanced hand tracking that looks for an "L" hand gesture and opens Linkedin with Chrome if it is not already open. Also uses HandTrackingModule.
